@@ -1,3 +1,2 @@
-# hello-world
-Pruba de creacion de Repositorio
-Esto es para ver si puedo aprender algo. 
+# Se crea Repo CMDB.
+Se crea Repositorio para registro de los codigos usados.
